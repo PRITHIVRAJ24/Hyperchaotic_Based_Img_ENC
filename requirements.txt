@@ -1,0 +1,7 @@
+opencv-python
+numpy
+scipy
+os
+pickle
+math
+flet
